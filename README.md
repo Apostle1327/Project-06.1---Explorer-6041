@@ -52,24 +52,18 @@ React updates the UI instantly whenever the state changes, providing immediate f
 The app is built using Vite, ensuring fast build times and a smooth development experience.
 Hot Module Replacement (HMR) is enabled for quick feedback and faster iteration.
 
-You can see a live version of this project [here]("").
+You can see a live version of this project [here]("https://github.com/Apostle1327/Project-06.1---Explorer.git").
 
 ## How to Use
 
 1. Clone the repository :
 
    ```bash
-   git clone
+   git clone gh repo clone Apostle1327/Project-06.1---Explorer
 
    ```
 
-2. Navigate to the project directory :
-
-```bash
- cd
-```
-
-3. Open the index.html file in a browser.
+2. Open the index.html file in a browser.
 
 ## Screenshots
 
