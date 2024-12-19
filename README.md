@@ -63,8 +63,6 @@ You can see a live version of this project [here]("https://github.com/Apostle132
 
    ```
 
-2. Open the index.html file in a browser.
-
 ## Screenshots
 
 <img width="330" alt="Countdown - 1" src="../Project 06.1 - Explorer/src/Images/Project 06.1-Explorer - 1.png">
